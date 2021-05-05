@@ -35,11 +35,11 @@ To run app please configure a .env file on root of project, the required variabl
 
 first step is run the command 
 
-"npm install"
+npm install
 
 second step after install finish is 
 
-"npm start"
+npm start
 
 
 ### Future Improvements
