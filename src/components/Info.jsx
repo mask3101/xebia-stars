@@ -2,7 +2,6 @@ import Card from "./Card"
 
 const Info = ({topics, visited, updateTopicSearch, resetSearch}) => {
   return(
-    <>
     <section className="grid-topics">
       {topics.map( data => {
        return(
@@ -10,7 +9,6 @@ const Info = ({topics, visited, updateTopicSearch, resetSearch}) => {
        ) 
       })}
     </section>
-  </>
   )
 }
 
